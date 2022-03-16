@@ -64,3 +64,4 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
   - [ODDLOT](https://github.com/hlrs-vis/covise/tree/master/src/OpenCOVER/DrivingSim/oddlot/samples) - Sample datasets distributed as part of ODDLOT project.
 - OpenSCENARIO
   - [OSC-ALKS-scenarios](https://github.com/asam-oss/OSC-ALKS-scenarios) - Test scenarios for the approval of an "Automated Lane Keeping System" on motorways according to the [ALKS Regulation UN R157](https://undocs.org/ECE/TRANS/WP.29/2020/81). `CC-BY-SA-4.0`
+  - [ZalaZone Hungarian PG](https://github.com/BMEAutomatedDrive/ZalaZONE-automotive-proving-ground-virtual-simulation-models)
