@@ -42,7 +42,7 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
   - [odrSpiral](https://github.com/DLR-TS/odrSpiral) - C++ implementation of euler spirals (clothoids). `Apache-2.0` `C++`
   - [libOpenDRIVE](https://github.com/grepthat/libOpenDRIVE) - Lightweight, fast C++ library providing OpenDRIVE file parsing and 3D model generation as well as a [web-based viewer](https://sebastian-pagel.net). `Apache-2.0` `C++`
 - OpenSCENARIO
-  - [openscenario.api.test](https://github.com/RA-Consulting-GmbH/openscenario.api.test) - Java library for reading and processing scenarios (C++ in progress). `Apache-2.0` `Java`
+  - [openscenario.api.test](https://github.com/RA-Consulting-GmbH/openscenario.api.test) - Java library for reading and processing scenarios (in the past: Java). `C++`
 - OpenSCENARIO + OpenDRIVE
   - [scenariogeneration](https://github.com/pyoscx/scenariogeneration) - Python wrapper for parametrizing and generating linked OpenSCENARIO and OpenDRIVE datasets (formerly known as [pyodrx](https://github.com/pyoscx/pyodrx) & [pyoscx](https://github.com/pyoscx/pyoscx) project). `MPL-2.0` `Python`
 
