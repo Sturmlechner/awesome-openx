@@ -25,7 +25,7 @@ The structure of this list was inspired by [awesome selfhosted](https://github.c
 - [ODDLOT](https://www.hlrs.de/solutions-services/service-portfolio/visualization/driving-simulator/oddlot/) - GUI application for the creation of road networks and graphical representations as part of [COVISE](https://www.hlrs.de/covise/). ([Source Code](https://github.com/hlrs-vis/covise/tree/master/src/OpenCOVER/DrivingSim/oddlot)) `LGPL-2.1` `C++`
 - [Blender Driving Scenario Creator](https://github.com/johschmitz/blender-driving-scenario-creator) - Blender add-on for creating simple OpenDRIVE and OpenSCENARIO based driving scenarios including 3D models. `GPL-3.0` `Python`
 - [Unreal Engine OpenDRIVE plugin](https://github.com/brifsttar/OpenDRIVE) - Plugin for creating and manipulating OpenDRIVE road networks based [esmini](https://github.com/esmini/esmini)'s [RoadManager](https://github.com/esmini/esmini/tree/master/EnvironmentSimulator/Modules/RoadManager). `MPL-2.0` `C++`
-
+- [OpenScenario Editor]() Intro at ASAM event: https://www.youtube.com/watch?v=Bjg-dRn8PmQ (OpenSource release still pending (Audi))
 ## Converters
 
 - [r:trån](https://rtron.io) - Transformer of OpenDRIVE geometries and semantics to CityGML enabling the usage of the [3dcitydb](https://github.com/3dcitydb/3dcitydb), [FME](https://www.safe.com/fme/) and much more. ([Source Code](https://github.com/tum-gis/rtron), [Demos](https://rtron.io)) `Apache-2.0` `Kotlin`
